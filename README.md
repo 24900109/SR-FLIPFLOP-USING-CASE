@@ -91,4 +91,5 @@ endmodule
 ![WhatsApp Image 2024-12-03 at 14 25 44_fcbdc5f4](https://github.com/user-attachments/assets/039215d9-81dd-47f0-b705-2ad4bbf21d95)
 
 **RESULTS**
+
 Thus the SR flipflop using verilog and validating their functionality using their functional tables are verified.
